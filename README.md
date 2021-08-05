@@ -1,4 +1,4 @@
-# Tracker
+# OptiTrackGH
 A Grasshopper plugin for NaturalPoint's NatNet API. Supports real-time motion tracking with OptiTrack camera systems. 
 
 Requires a valid copy of the OptiTrack Motive software to broadcast MoCap data on a local network.
