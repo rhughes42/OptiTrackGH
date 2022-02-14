@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Tracker")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Supports real-time motion tracking with OptiTrack camera systems using NaturalPoint's NatNet API.")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Axis")]
 [assembly: AssemblyProduct("Tracker")]
 [assembly: AssemblyCopyright("Copyright © 2019")]
 [assembly: AssemblyTrademark("")]
