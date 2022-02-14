@@ -50,6 +50,10 @@
     <Reference Include="Grasshopper, Version=7.2.21021.7000, Culture=neutral, PublicKeyToken=dda4f5ec2cd80803, processorArchitecture=MSIL">
       <HintPath>..\packages\Grasshopper.7.2.21021.7001\lib\net45\Grasshopper.dll</HintPath>
     </Reference>
+    <Reference Include="NatNetML, Version=2.10.6019.26417, Culture=neutral, processorArchitecture=AMD64">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\x64\NatNetML.dll</HintPath>
+    </Reference>
     <Reference Include="Rhino.UI, Version=7.2.21021.7000, Culture=neutral, PublicKeyToken=552281e97c755530, processorArchitecture=MSIL">
       <HintPath>..\packages\RhinoCommon.7.2.21021.7001\lib\net45\Rhino.UI.dll</HintPath>
     </Reference>
