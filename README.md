@@ -7,8 +7,8 @@ Tracker grabs frame data from Motive, scales, translates and presents the releva
 Read more about OptiTrack here: https://optitrack.com/applications/
 
 ## Dependencies
-Tracker requires version 4.0 the NatNet Assembly (NatNetML.dll), which is included in this repo in the lib folder.
-The SDK can be downloaded from https://optitrack.com/software/natnet-sdk/
+Tracker requires version 4.0 the NatNet Assembly (NatNetML.dll), which is included in this repo in the lib folder.  
+The full SDK can be downloaded from https://optitrack.com/software/natnet-sdk/
 
 ## Installation
 
