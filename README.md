@@ -17,7 +17,9 @@ The full SDK can be downloaded from https://optitrack.com/software/natnet-sdk/
 
 ## Usage
 The plugin now only contains one real component for catching broadcasted frames from a running instance of Motive.  
+
 You will need a valid OptiTrack setup and a license for motive before anything will appear on your local network.  
+
 This plugin will catch them, do some optimization to make sure we don't redraw every single frame (this can be turned off), and then creates some Grasshopper geometry to represent the position of the Motive frame. It has application in architectural robotics, production, game design, motion capture etc.
 
 ### Contributors
